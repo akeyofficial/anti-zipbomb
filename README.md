@@ -6,6 +6,12 @@ A C++ tool that checks zip files for bomb behavior before extracting.
 
 Requires `g++`, `zlib`, and `minizip`.
 
+Clone the repo:
+```bash
+git clone https://github.com/yourname/zipguard.git
+cd zipguard
+```
+
 Debian/Ubuntu:
 ```bash
 sudo apt install g++ zlib1g-dev libminizip-dev
